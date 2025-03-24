@@ -1,2 +1,2 @@
-public class GameLogic {
+public interface GameLogic {
 }
